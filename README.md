@@ -14,21 +14,21 @@ Advanced SQL Queries: Includes 20 queries showcasing joins, aggregations, subque
 # Database Schema
 The project consists of the following tables:
 
-# Artworks: Stores details about artworks, such as title, artist, price, and status.
-# Artists: Contains information about artists, including their name and biography.
-# Buyers: Stores buyer information, including names and contact details.
-# Sales: Tracks sales transactions, linking buyers, artworks, and exhibitions.
-# Exhibitions: Manages details about exhibitions, including location and participating artworks.
+**Artworks**: Stores details about artworks, such as title, artist, price, and status.
+**Artists**: Contains information about artists, including their name and biography.
+**Buyers**: Stores buyer information, including names and contact details.
+**Sales**: Tracks sales transactions, linking buyers, artworks, and exhibitions.
+**Exhibitions**: Manages details about exhibitions, including location and participating artworks.
 
 # Example Queries
 Here are some of the key queries included in the project:
 
-# Find total sales revenue from sold artworks.
-# Retrieve top 5 most expensive artworks available.
-# List buyers who have purchased multiple artworks.
-# Analyze sales data by exhibition.
-# Retrieve details of all artworks by a specific artist.
-# Find unsold artworks created before a specific year.
+### Find total sales revenue from sold artworks.
+### Retrieve top 5 most expensive artworks available.
+### List buyers who have purchased multiple artworks.
+### Analyze sales data by exhibition.
+### Retrieve details of all artworks by a specific artist.
+### Find unsold artworks created before a specific year.
 The full list of queries is available in the queries.sql file.
 
 # Getting Started
